@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1, 
+      "name": "Eggs"
+    },
+    {
+      "id": 2, 
+      "name": "Cheese"
+    },
+    {
+      "id": 3, 
+      "name": "Milk"
+    }, 
+    {
+      "id": 4, 
+      "name": "Meat"
+    },
+    {
+      "id": 5, 
+      "name": "Potato"
+    }, 
+    {
+      "id": 6, 
+      "name": "Banana"
+    }, 
+    {
+      "id": 7, 
+      "name": "Soda"
+    },
+    {
+      "id": 8, 
+      "name": "Mouse"
+    }, 
+    {
+      "id": 9, 
+      "name": "Keyboard"
+    },
+    {
+      "id": 10, 
+      "name": "MousePad"
+    },
+    {
+      "id": 11, 
+      "name": "Screen"
+    },
+    {
+      "id": 12, 
+      "name": "HeadSet"
+    },
+    {
+      "id": 13, 
+      "name": "Cellphone"
+    },
+    {
+      "id": 14, 
+      "name": "Phone"
+    },
+    {
+      "id": 15, 
+      "name": "Cup"
+    },
+    {
+      "id": 16, 
+      "name": "Glass"
+    },
+    {
+      "id": 17, 
+      "name": "Computer"
+    },
+    {
+      "id": 18, 
+      "name": "Notebook"
+    },
+    {
+      "id": 19, 
+      "name": "Painel"
+    },
+    {
+      "id": 20, 
+      "name": "Sofa"
+    },
+    {
+      "id": 21, 
+      "name": "Television"
+    },
+    {
+      "id": 22, 
+      "name": "DVD"
+    },
+    {
+      "id": 23, 
+      "name": "Window"
+    },
+    {
+      "id": 24, 
+      "name": "Table"
+    },
+    {
+      "id": 25, 
+      "name": "Chair"
+    }
+  ]
+}
